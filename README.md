@@ -137,7 +137,5 @@ MIT — see the `LICENSE` file for details.
 
 ---
 
-<sub>Created for learning and experimentation. If you want this notebook packaged as a library or a CLI, I can help with the next steps.</sub>
+<sub>Created for learning and experimentation. </sub>
 ---
-
-<sub>Created for learning and experimentation. If you want this notebook packaged as a library or a CLI, I can help with the next steps.</sub>
