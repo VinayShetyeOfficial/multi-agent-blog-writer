@@ -135,7 +135,3 @@ Please keep the notebook reproducible and document any added dependencies in the
 
 MIT — see the `LICENSE` file for details.
 
----
-
-<sub>Created for learning and experimentation. </sub>
----
